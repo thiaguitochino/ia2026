@@ -32,5 +32,24 @@ El algoritmo recibe datos sin etiquetas y debe encontrar patrones o relaciones p
 Ejemplo: agrupar clientes con comportamientos de compra similares.
 
 3. Aprendizaje por refuerzo
+   El sistema aprende mediante prueba y error, recibiendo recompensas o castigos según sus acciones.
+Ejemplo: una IA que aprende a jugar un videojuego mejorando cada vez que gana puntos.
+
+
+
+analisis de datos que es y herramienras
+dataframe vs dataset
+
+
+
+
+
+
+
+
+
+
+
+
 El sistema aprende mediante prueba y error, recibiendo recompensas o castigos según sus acciones.
 Ejemplo: una IA que aprende a jugar un videojuego mejorando cada vez que gana puntos.
